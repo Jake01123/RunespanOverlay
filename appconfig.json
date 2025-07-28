@@ -1,6 +1,6 @@
 {
   "name": "Runespan Overlay",
-  "description": "Local overlay for Runespan training",
+  "description": "Overlay for Runespan training",
   "main": "index.html",
   "permissions": ["screenread", "overlay"]
 }
