@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: transparent;
+}
+
+#overlay {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-size: 22px;
+  color: cyan;
+  font-family: Tahoma, sans-serif;
+}
