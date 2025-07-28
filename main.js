@@ -1,1 +1,8 @@
-document.getElementById("overlay").style.border = "2px dashed yellow";
+alt1.overLayText(
+  "🔮 Searching for nodes...",
+  10,
+  10,
+  true,
+  alt1Color(255, 255, 255, 255),
+  alt1Font(18, "Tahoma")
+);
